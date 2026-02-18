@@ -92,4 +92,4 @@ with gr.Blocks(title="Multimedia Summarizer") as demo:
         outputs=answer_output
     )
 
-demo.launch()
+demo.launch(share=True)
