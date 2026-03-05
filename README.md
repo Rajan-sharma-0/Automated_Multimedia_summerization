@@ -75,11 +75,11 @@ Open the URL shown in terminal (usually `http://127.0.0.1:7860`).
 
 ### App Interface
 
-![App Interface](assets/images/app-interface.png)
- 
-### Summary Output Example
 
-![Summary Output](assets/images/summary-output.png)
+ ![App Interface](image.png)
+
+
+
 
 ## How to Use
 
