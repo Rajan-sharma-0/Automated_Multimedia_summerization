@@ -1,0 +1,9 @@
+gradio>=5.0.0
+moviepy>=2.0.0
+pydub>=0.25.1
+SpeechRecognition>=3.10.0
+PyPDF2>=3.0.1
+fpdf2>=2.7.9
+transformers>=4.40.0
+torch>=2.2.0
+sentencepiece>=0.2.0
